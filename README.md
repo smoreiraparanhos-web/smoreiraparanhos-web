@@ -1,16 +1,44 @@
-## Hi there 👋
+# Costelinha ✳
 
-<!--
-**smoreiraparanhos-web/smoreiraparanhos-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sites com identidade própria, do pedido aos detalhes.
 
-Here are some ideas to get you started:
+Sou Samuel, de Eldorado do Sul, RS. Costelinha é meu apelido
+no trabalho e o nome que escolhi para meus projetos de criação digital.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou aprendendo desenvolvimento web com **HTML, CSS e JavaScript**,
+criando sites para apresentar negócios, organizar produtos e facilitar contatos.
+
+## Meu jeito de criar
+
+Gosto de misturar referências profissionais com liberdade criativa.
+Quero entender por que uma ideia funciona e encontrar uma forma
+própria de aplicá-la em cada projeto.
+
+- **Identidade:** escolhas visuais que fazem sentido para o negócio.
+- **Conteúdo:** informação organizada e linguagem direta.
+- **Navegação:** caminhos fáceis de entender e usar.
+- **Detalhes:** leitura no celular, imagens, links e formulários.
+
+## O que tu encontra por aqui
+
+Sites comerciais, landing pages, catálogos digitais e experimentos
+com interfaces.
+
+Os repositórios mostram meu aprendizado e a evolução dos projetos.
+Demonstrações são identificadas como estudos, sem resultados
+comerciais inventados.
+
+## Aprendizado atual
+
+**HTML semântico · CSS responsivo · JavaScript · Git e GitHub**
+
+Uso inteligência artificial como apoio enquanto desenvolvo minha
+capacidade de entender, revisar e modificar o código.
+
+## Vamos conversar?
+
+Tem um negócio para apresentar ou uma ideia para tirar do papel?
+
+[Conversar pelo WhatsApp](https://wa.me/5551996263127)
+·
+[Enviar um e-mail](mailto:smoreiraparanhos@gmail.com)
